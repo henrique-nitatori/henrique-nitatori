@@ -14,12 +14,12 @@
 <br />
 <br />
 
-Sou henrique estudante de Analise e desenvolvimento de software pelo [IFPR](https://foz.ifpr.edu.br/) :books: e apaixonado por tecnologia
+Sou henrique estudante de Análise e desenvolvimento de software pelo [IFPR](https://foz.ifpr.edu.br/) :books: e apaixonado por tecnologia
 
 <img src="https://github.com/henrique-nitatori/henrique-nitatori/blob/main/3426526.jpg" alt="progammer" width="500" height="400" align="right"/>
 
   
-- 🌱 Atualmente estou elevando meu nível nas tecnologias que ja conheço
+- 🌱 Atualmente estou elevando meu nível nas tecnologias que já conheço
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar
 - 📫 Como entrar em contato comigo: <a target="_blank" href="mailto:henriquenitatori99@gmail.com">
     <img alt="Gmail" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
