@@ -18,7 +18,6 @@ Sou henrique estudante de Analise e desenvolvimento de software pelo [IFPR](http
 
 <img src="https://github.com/henrique-nitatori/henrique-nitatori/blob/main/3426526.jpg" alt="progammer" width="500" height="400" align="right"/>
 
-<div align="center">
   
 - 🌱 Atualmente estou elevando meu nível nas tecnologias que ja conheço
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar
@@ -36,7 +35,6 @@ Sou henrique estudante de Analise e desenvolvimento de software pelo [IFPR](http
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-</div>
 
 
 
